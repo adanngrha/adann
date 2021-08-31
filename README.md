@@ -1,5 +1,5 @@
-Hello World! :wave:
-==
+# Hello World! :wave:
+
 Welcome to my github profile! :smile:
 --
 * My name is Ardana but my friends called me Adan
