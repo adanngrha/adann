@@ -9,6 +9,7 @@
 
 * Web Development
 * Software Engineering
+* Artificial Intelligence
 * Data Science (being a data engineer would be cool :laughing:)
 
 ## Thank you and Welcome! :computer:
