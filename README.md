@@ -9,7 +9,7 @@
 
 * Web Development
 * Software Engineering
-* Data Engineering (being a data engineer would be cool :laughing:)
+* Data Science (being a data engineer would be cool :laughing:)
 
 ## Thank you and Welcome! :computer:
 
