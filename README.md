@@ -28,3 +28,10 @@
 
 ## Thank you, and stay motivated! :computer:
 
+<p align="left">
+<a href="https://github.com/adanngrha">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adanngrha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adanngrha&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
