@@ -7,7 +7,7 @@
 * :boy: My name is Ardana but my friends called me Adan
 * :mortar_board: I'm a Undergraduate Informatics Engineering Student at PLN Institute of Technology (currently on the second year!) 
 * :bar_chart: Data Enthusiast! 
-* :muscle: I'm a hardworker, fast learner, and I always passionate to learn more about technology especially in the world of computer science 
+* :muscle: I'm a hardworker, fast learner, and I always eager to learn more about technology especially in the world of computer science 
 
 ## Currently studying and having big interest in:
 
