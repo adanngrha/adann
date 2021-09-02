@@ -54,6 +54,6 @@
 
 ## Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ?si=802b2d06db724fe1)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/t18w2nhlazzsgkpg1shy4rple?si=7b4cb28e09a94821)
 
 ## Thank you, and stay motivated! :computer:
