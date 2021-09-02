@@ -52,8 +52,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adanngrha&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
-## Spotify Playing 🎧
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/t18w2nhlazzsgkpg1shy4rple?si=7b4cb28e09a94821)
-
 ## Thank you, and stay motivated! :computer:
