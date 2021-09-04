@@ -14,7 +14,7 @@
 * Web Development,
 * Software Engineering,
 * Artificial Intelligence, and
-* Data Science (being a data engineer would be cool :laughing:)
+* Data Science (being a data engineer or data scientist would be cool :laughing:)
 
 ## My Current Experience
 
