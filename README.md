@@ -16,7 +16,7 @@
 * Artificial Intelligence,
 * Data Science (being a data engineer or data scientist would be cool :laughing:)
 * Cloud Computing
-* I also studying CS50 by Harvard! finished CS50S and CS50T, and currently striving on CS50x2021 hit me up to collaboration! 
+* I also studying CS50 by Harvard! finished CS50S and CS50T, and currently striving on CS50x2021 hit me up for collaboration! 
 
 ## My Current Experience
 
