@@ -21,6 +21,7 @@
 ## My Current Experience
 
 * Laboratory Asisstant at Intelligent Computing & Software Engineering Laboratory at my own campus
+* Core Team Google Developers Student Clubs Chapter PLN Institute of Technology
 * KMMI Participant at Bakrie University x Progate by Kampus Merdeka
 * AIESEC Future Leaders 3.0 Delegate at AIESEC UIN Jakarta
 * Participant at "Artificial Intelligence with a Cause" Class at Kecerdasan Digital by CfDS UGM in collaboration with Huawei
