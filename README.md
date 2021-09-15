@@ -14,7 +14,7 @@
 * Web Development,
 * Software Engineering,
 * Artificial Intelligence,
-* Data Science (being a data engineer or data scientist would be cool :laughing:)
+* Data Science,
 * Cloud Computing
 * I also studying CS50 by Harvard! finished CS50S and CS50T, and currently striving on CS50x2021 hit me up for collaboration! 
 
