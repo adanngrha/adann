@@ -11,11 +11,11 @@
 
 ## Currently studying and having big interest in:
 
-* Web Development,
-* Software Engineering,
-* Data Science,
-* Cloud Computing
-* I also studying CS50 by Harvard! finished CS50S and CS50T, and currently striving on CS50x2021 hit me up for collaboration! 
+* :earth_asia: Web Development,
+* :wrench: Software Engineering,
+* :nut_and_bolt: Data Engineering,
+* :cloud: Cloud Computing, and
+* :closed_book: I also studying CS50 by Harvard! finished CS50S and CS50T, and currently striving on CS50x2021 hit me up for collaboration! 
 
 ## My Current Experience
 
@@ -35,6 +35,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=A8B9CC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
