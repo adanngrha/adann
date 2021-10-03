@@ -13,7 +13,6 @@
 
 * Web Development,
 * Software Engineering,
-* Artificial Intelligence,
 * Data Science,
 * Cloud Computing
 * I also studying CS50 by Harvard! finished CS50S and CS50T, and currently striving on CS50x2021 hit me up for collaboration! 
@@ -30,6 +29,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
