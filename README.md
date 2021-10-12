@@ -6,13 +6,12 @@
 
 * :boy: My name is Ardana but my friends called me Adan
 * :mortar_board: I'm a Undergraduate Informatics Engineering Student at PLN Institute of Technology (currently on the second year!) 
-* :bar_chart: Data Enthusiast! 
+* :bar_chart: Data Engineering Enthusiast! 
 * :muscle: I'm a hardworker, fast learner, and I always eager to learn more about technology especially in the world of computer science 
 
 ## Currently studying and having big interest in:
 
 * :earth_asia: Web Development,
-* :wrench: Software Engineering,
 * :nut_and_bolt: Data Engineering,
 * :cloud: Cloud Computing, and
 * :closed_book: I also studying CS50 by Harvard! finished CS50S and CS50T, and currently striving on CS50x2021 hit me up for collaboration! 
@@ -21,7 +20,6 @@
 
 * Laboratory Asisstant at Intelligent Computing & Software Engineering Laboratory at my own campus
 * Core Team Member Google Developers Student Clubs Chapter Institut Teknologi PLN with role as Publicity Lead
-* KMMI Participant at Bakrie University x Progate by Kampus Merdeka
 * AIESEC Future Leaders 3.0 Delegate at AIESEC UIN Jakarta
 * Participant at "Artificial Intelligence with a Cause" Class at Kecerdasan Digital by CfDS UGM in collaboration with Huawei
 
