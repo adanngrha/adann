@@ -11,7 +11,7 @@
 
 ## Currently studying and having big interest in:
 
-* :earth_asia: Web Development,
+* :earth_asia: Web Development (Backend),
 * :nut_and_bolt: Data Engineering,
 * :cloud: Cloud Computing, and
 * :closed_book: I also studying CS50 by Harvard! finished CS50S and CS50T, and currently striving on CS50x2021 hit me up for collaboration! 
