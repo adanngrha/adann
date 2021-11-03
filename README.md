@@ -21,7 +21,6 @@
 * Laboratory Asisstant at Intelligent Computing & Software Engineering Laboratory at my own campus
 * Core Team Member Google Developers Student Clubs Chapter Institut Teknologi PLN with role as Publicity Lead
 * AIESEC Future Leaders 3.0 Delegate at AIESEC UIN Jakarta
-* Participant at "Artificial Intelligence with a Cause" Class at Kecerdasan Digital by CfDS UGM in collaboration with Huawei
 
 ## Tech Stack
 
