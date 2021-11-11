@@ -16,12 +16,6 @@
 * :cloud: Cloud Computing, and
 * :closed_book: I also studying CS50 by Harvard! finished CS50S and CS50T, and currently striving on CS50x2021 hit me up for collaboration! 
 
-## My Current Experience
-
-* Laboratory Asisstant at Intelligent Computing & Software Engineering Laboratory at my own campus
-* Core Team Member Google Developers Student Clubs Chapter Institut Teknologi PLN with role as Publicity Lead
-* AIESEC Future Leaders 3.0 Delegate at AIESEC UIN Jakarta
-
 ## Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
