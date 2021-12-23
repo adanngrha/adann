@@ -6,15 +6,12 @@
 
 * :boy: My name is Ardana but my friends called me Adan
 * :mortar_board: I'm a Undergraduate Informatics Engineering Student at PLN Institute of Technology (currently on the second year!) 
-* :bar_chart: Data Engineering Enthusiast! 
+* :bar_chart: Backend Engineering Enthusiast! 
 * :muscle: I'm a hardworker, fast learner, and I always eager to learn more about technology especially in the world of computer science 
 
 ## Currently studying and having big interest in:
 
-* :earth_asia: Web Development (Backend),
-* :nut_and_bolt: Data Engineering,
-* :cloud: Cloud Computing, and
-* :closed_book: I also studying CS50 by Harvard! finished CS50S and CS50T, and currently striving on CS50x2021 hit me up for collaboration! 
+* :earth_asia: Web Development (Backend).
 
 ## Tech Stack
 
