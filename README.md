@@ -11,9 +11,9 @@
 
 ## Currently studying and having big interest in:
 
-* :earth_asia: Web Development (Backend). I'm focusing on server side framework such as Flask, Django, Laravel, and Node.js.
+* :earth_asia: Web Development (More into backend side). I'm focusing on server side framework such as Flask, Laravel, and Node.js.
 
-## Tech Stack
+## Tech Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -22,12 +22,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite3](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
