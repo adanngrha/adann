@@ -5,7 +5,7 @@
 ## About Me
 
 * :boy: Just called me Adan.
-* :mortar_board: I'm a Undergraduate Informatics Engineering Student at PLN Institute of Technology, currently on my second year. 
+* :mortar_board: I'm an Undergraduate Informatics Engineering Student, currently on my second year. 
 * :muscle: I'm a hardworker, fast learner, and always eager to learn more.
 
 ## Currently studying and having big interest in
