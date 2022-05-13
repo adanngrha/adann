@@ -10,7 +10,7 @@
 
 ## Currently studying and having big interest in
 
-* :hammer_and_wrench::gear: Software Engineering.
+* :hammer_and_wrench::gear: Software Engineering Web Platform and Mobile Platform.
 
 ## Tech Skills
 
