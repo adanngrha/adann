@@ -1,17 +1,16 @@
 # Hello There! :wave:
-## Welcome to my github profile! :smile:
+## Welcome to my github profile!
 ![](https://visitor-badge.glitch.me/badge?page_id=adanngrha)
 
-## About Me :sunglasses:
+## About Me
 
-* :boy: My name is Ardana but my friends called me Adan
-* :mortar_board: I'm a Undergraduate Informatics Engineering Student at PLN Institute of Technology (currently on the second year!) 
-* :bar_chart: Backend Engineering Enthusiast! 
-* :muscle: I'm a hardworker, fast learner, and I always eager to learn more about technology especially in the world of computer science 
+* :boy: Just called me Adan.
+* :mortar_board: I'm a Undergraduate Informatics Engineering Student at PLN Institute of Technology, currently on my second year. 
+* :muscle: I'm a hardworker, fast learner, and always eager to learn more.
 
-## Currently studying and having big interest in:
+## Currently studying and having big interest in
 
-* :earth_asia: Web Development (More into backend side). I'm focusing on server side framework such as Flask, Laravel, and Node.js.
+* :hammer_and_wrench::gear: Software Engineering.
 
 ## Tech Skills
 
