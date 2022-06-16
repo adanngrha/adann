@@ -1,13 +1,14 @@
 [![](https://visitcount.itsvg.in/api?id=adanngrha&icon=0&color=12)](https://visitcount.itsvg.in)
 
 # 💫About Me :
-👦 Just called me Adan.
-🎓 I'm an Undergraduate Informatics Engineering Student, currently on my second year.
-🔭 I’m currently working as a Laboratory Assistant.
-👯 I’m looking to collaborate on Web or Mobile Development projects.
-🌱 I’m currently learning Web and Development and Cloud Computing. 
-👨‍💻 All of my projects are available at adanngrha.me
+👦 Just called me Adan.  
+🎓 I'm an Undergraduate Informatics Engineering Student, currently on my second year.  
+🔭 I’m currently working as a Laboratory Assistant.  
+👯 I’m looking to collaborate on Web or Mobile Development projects.  
+🌱 I’m currently learning Web and Development and Cloud Computing.  
+👨‍💻 All of my projects are available at [here.](https://adanngrha.me)  
 💪 I'm a hardworker, fast learner, and always eager to learn more.
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adanngrha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ardana-nugraha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adanngrha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adanngrha) 
