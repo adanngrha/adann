@@ -6,7 +6,7 @@
 🔭 I’m currently working as a Laboratory Assistant.  
 👯 I’m looking to collaborate on Web or Mobile Development projects.  
 🌱 I’m currently learning Web and Development and Cloud Computing.  
-👨‍💻 All of my projects are available at [here.](https://adanngrha.me)  
+👨‍💻 All of my projects are available at [here.](https://adanngrha.me/My-project-hasn-t-been-moved-here-yet-1d83585608d846cca2c549708bb28d29)  
 💪 I'm a hardworker, fast learner, and always eager to learn more.
 
 
