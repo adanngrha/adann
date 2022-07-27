@@ -2,7 +2,7 @@
 
 # 💫About Me :
 👦 Just called me Adan.  
-🎓 I'm an Undergraduate Informatics Engineering Student, currently on my second year.  
+🎓 I'm an Undergraduate Informatics Engineering Student, currently on my third-year.  
 🔭 I’m currently working as a Laboratory Assistant.  
 👯 I’m looking to collaborate on Web or Mobile Development projects.  
 🌱 I’m currently learning Web and Development and Cloud Computing.  
