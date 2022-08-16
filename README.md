@@ -5,7 +5,7 @@
 🔭 I’m currently working as a Laboratory Assistant.  
 🌱 I’m currently learning Web Development (MERN Stack or Laravel) and Mobile Development (Flutter).
 👯 I’m looking to collaborate on Web or Mobile Development projects.    
-👨‍💻 All of my projects are available at [here.](https://adanngrha.me/My-project-hasn-t-been-moved-here-yet-1d83585608d846cca2c549708bb28d29)  
+👨‍💻 All of my projects are available at [here.](https://adanngrha.notion.site/30b00669ee3f41ac88b2d5d00d3def23?v=02517b838e8a4741a221d8825b2ef2d0)  
 💪 I'm a hardworker, fast learner, and always eager to learn more.
 
 
