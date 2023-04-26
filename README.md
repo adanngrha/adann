@@ -2,7 +2,7 @@
 
 # 💫About Me :
 🎓 I'm an Undergraduate Informatics Engineering Student, currently on my third-year.  
-🔭 I’m currently working as a Laboratory Assistant.  
+🔭 I’m currently part time working as a Laboratory Assistant.  
 🌱 I’m currently learning Web Development (MERN Stack or Laravel) and Machine Learning.
 👯 I’m looking to collaborate on Web, Machine Learning, or AI projects.    
 👨‍💻 All of my projects are available at [here.](https://adanngrha.notion.site/30b00669ee3f41ac88b2d5d00d3def23?v=02517b838e8a4741a221d8825b2ef2d0)  
