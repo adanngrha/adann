@@ -5,7 +5,7 @@
 🔭 I am currently working part-time as a laboratory assistant.
 🌱 I am learning about web development and machine learning.
 👯 I am interested in collaborating on web, machine learning, or AI projects.    
-👨‍💻 All of my projects are available [here.](https://adanngrha.notion.site/30b00669ee3f41ac88b2d5d00d3def23?v=02517b838e8a4741a221d8825b2ef2d0)  
+👨‍💻 All of my personal projects are available [here.](https://adanngrha.notion.site/30b00669ee3f41ac88b2d5d00d3def23?v=02517b838e8a4741a221d8825b2ef2d0)  
 💪 I am a hardworker, fast learner, and always eager to learn more.
 
 
