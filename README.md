@@ -4,7 +4,7 @@
 🎓 I am an undergraduate informatics engineering student in my third year of study.   
 🔭 I am currently working part-time as a laboratory assistant.    
 🌱 I am learning about software development and machine learning.    
-👯 I am interested in collaborating on web, machine learning, or AI projects.    
+👯 I am interested in collaborating on software, machine learning, or AI projects.    
 👨‍💻 All of my personal projects are available [here.](https://adanngrha.notion.site/30b00669ee3f41ac88b2d5d00d3def23?v=02517b838e8a4741a221d8825b2ef2d0)  
 💪 I am a hardworker, fast learner, and always eager to learn more.
 
