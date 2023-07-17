@@ -1,9 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=adanngrha&icon=0&color=12)](https://visitcount.itsvg.in)
 
 # 💫About Me :
-🎓 I am an undergraduate informatics engineering student in my third year of study.
-🌱 I am learning about web development and machine learning.
-💪 I am a hardworker, fast learner, and always eager to learn more.
+- 🎓 I am an undergraduate informatics engineering student in my third year of study.
+- 🌱 I am learning about web development and machine learning.
+- 💪 I am a hardworker, fast learner, and always eager to learn more.
 
 
 ## 🌐Socials
