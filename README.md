@@ -1,13 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=adanngrha&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ## 💫About Me :
-- 🎓 I am an undergraduate informatics engineering student in my third year of study.
+- 🎓 I am an undergraduate informatics engineering student in my final year of study.
 - 🌱 I am learning about web development and machine learning.
 - 💪 I am a hardworker, fast learner, and always eager to learn more.
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adanngrha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ardana-nugraha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adanngrha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adanngrha) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ardana-nugraha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adanngrha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adanngrha) 
 
 
 ## 📊GitHub Stats :
